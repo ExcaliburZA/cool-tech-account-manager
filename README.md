@@ -1,4 +1,4 @@
-# cool-tech-account-manager
+# Cool Tech account manager
 ## A full stack web-based credential management application for fictitious company, Cool Tech
 
 To register an account simply enter a username and password and click Register. Please note that usernames must be unique.
