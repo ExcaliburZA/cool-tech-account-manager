@@ -1,0 +1,133 @@
+.division{
+  font-size: large;
+  color: white;
+  background-color: darkolivegreen;
+  padding: 10px;
+  margin: 10px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.division:hover{
+  color: black;
+  background-color: lightgray;
+  margin: 16px;
+}
+
+.OU{
+  font-size: x-large;
+  color: white;
+  background-color: darkgoldenrod;
+  padding: 10px;
+  margin: 10px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.OU:hover{
+  color: white;
+  background-color: darkcyan;
+  font-weight: bold;
+  margin: 16px;
+}
+
+.authentication-button{
+  color: white;
+  background-color: darkblue;
+  margin: 8px;
+}
+
+.edit-button{
+  color: black;
+  background-color: lightgray;
+  font-size: x-large;
+  padding: 10px;
+  margin: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.edit-button:hover,.authentication-button:hover{
+  color: white;
+  background-color: darkred;
+  font-weight: bold;
+  margin: 16px;
+}
+
+input{
+  font-size: medium;
+  padding: 12px;
+  margin: 15px;
+}
+
+label{
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 8px;
+}
+
+input:hover{
+  background-color: lightgreen;
+}
+
+ul{
+  list-style-type: none;
+  font-size: medium;
+  padding: 6px;
+}
+
+.login{
+  border: 3px solid darkred;
+  padding: 20px;
+  margin-left: 30%;
+  margin-right: 30%;
+  background-color: lightgray;
+}
+
+button{
+  font-size: x-large;
+  padding: 10px;
+}
+
+.input-field{
+  font-size: large;
+  padding: 5px;
+  margin-bottom: 13px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
