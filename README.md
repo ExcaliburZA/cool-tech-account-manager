@@ -4,14 +4,26 @@
 To register an account simply enter a username and password and click Register. Please note that usernames must be unique.
 
 To log in enter your account information in the fields provided and select Login
+![Login page](login.PNG)
 
 From here you can select an organisational unit to view the divisions for. Please note that you will only have access to organisational units that have your username whitelisted.
+![Organisational unit selection](ou_selection.PNG)
 
-From here you can select a division to view the credentials repository for.
+From here you can select a division to view the credentials repository for. The same access restrictions are applied here as to the organisational units.
+
+![Division selection](div_selection.PNG)
 
 NOTE: admin users have access to all divisions and organisational units
 
 Once a division has been selected the credentials repository will be displayed along with a series of controls that can be used to perform various update operations. These controls are dependent on the role of the currently logged in user account. Current permission level is displayed at the bottom of the page.
+
+The repository view pages for normal, manager, and admin users are shown below.
+
+[!Normal user](reg_user.PNG)
+
+[!Manager user](manager_user.PNG)
+
+[!Admin user](admin_user.PNG)
 
 To add a new account to the repository enter it's information in the top most input fields above and click the 'Add credentials to repo' button. All accounts belonging to the division are able to do this.
 
