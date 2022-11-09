@@ -19,10 +19,15 @@ Once a division has been selected the credentials repository will be displayed a
 
 The repository view pages for normal, manager, and admin users are shown below.
 
+NORMAL
 ![Normal user](reg_user.PNG)
 
+
+MANAGER
 ![Manager user](manager_user.PNG)
 
+
+ADMIN
 ![Admin user](admin_user.PNG)
 
 To add a new account to the repository enter it's information in the top most input fields above and click the 'Add credentials to repo' button. All accounts belonging to the division are able to do this.
